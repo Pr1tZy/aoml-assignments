@@ -1,19 +1,18 @@
-### **📜 AOML Assignments**  
+### **AOML Assignments**  
 
 ![GitHub Repo](https://img.shields.io/badge/Repository-AOML_Assignments-blue?style=for-the-badge)  
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Pr1tZy/aoml-assignments?style=for-the-badge)  
 ![GitHub License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)  
 
 ## **📌 About This Repository**  
-This repository contains **AOML (Advanced Optimization and Machine Learning) assignments**, along with necessary datasets, models, and outputs. The assignments cover various **machine learning concepts, data processing, and model implementations**.
+This repository contains **AOML (Applications of Machine Learning) assignments**, along with necessary datasets, models, and outputs. The assignments cover various **machine learning concepts, data processing, and model implementations**.
 
-## **🛠️ Contents**  
+## ** Contents**  
 ✅ Jupyter Notebooks with **detailed explanations**  
 ✅ Relevant **datasets** for training and testing  
 ✅ Pre-trained **ML models**  
 ✅ Final **submission files**  
 
-## **📜 File Structure**  
+## **File Structure**  
 ```
 📂 aoml-assignments
 │── 📂 data
@@ -40,20 +39,9 @@ This repository contains **AOML (Advanced Optimization and Machine Learning) ass
 │── README.md
 ```
 
-## **🚀 Usage**  
-### **1️⃣ Clone This Repository**  
-```bash
-git clone https://github.com/Pr1tZy/aoml-assignments.git
-cd aoml-assignments
-```
-
-### **2️⃣ Open the Jupyter Notebooks**  
-```bash
-jupyter notebook
-```
-## **📜 License**  
+## **License**  
 This repository is licensed under the **MIT License**.  
 
-## **📬 Contact**  
+## **Contact**  
 📧 Email: `prithvi30singh@gmail.com`  
 🔗 GitHub: [Pr1tZy](https://github.com/Pr1tZy)  
