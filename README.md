@@ -6,7 +6,7 @@
 ## **📌 About This Repository**  
 This repository contains **AOML (Applications of Machine Learning) assignments**, along with necessary datasets, models, and outputs. The assignments cover various **machine learning concepts, data processing, and model implementations**.
 
-## ** Contents**  
+## **Contents**  
 ✅ Jupyter Notebooks with **detailed explanations**  
 ✅ Relevant **datasets** for training and testing  
 ✅ Pre-trained **ML models**  
